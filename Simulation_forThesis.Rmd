@@ -1,5 +1,5 @@
 
-```{r}
+
 #load libraries
 library(rpatrec)
 
@@ -88,4 +88,3 @@ for (j in 1:n){
   }
   print(j)
 }
-```
